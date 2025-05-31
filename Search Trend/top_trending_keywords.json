@@ -1,0 +1,56 @@
+{
+  "periodStart": "2025-03-01",
+  "periodEnd": "2025-03-31",
+  "searchTerms": [
+    {
+      "searchTerm": "tailored trousers",
+      "growthRate": 70300.0,
+      "category": "fashion"
+    },
+    {
+      "searchTerm": "solid coat",
+      "growthRate": 68300.0,
+      "category": "fashion"
+    },
+    {
+      "searchTerm": "vintage jeans",
+      "growthRate": 66900.0,
+      "category": "fashion"
+    },
+    {
+      "searchTerm": "new flats",
+      "growthRate": 51800.0,
+      "category": "footwear"
+    },
+    {
+      "searchTerm": "beige jumpsuit",
+      "growthRate": 50200.0,
+      "category": "fashion"
+    },
+    {
+      "searchTerm": "men leggings",
+      "growthRate": 50100.0,
+      "category": "fashion"
+    },
+    {
+      "searchTerm": "spring unisex",
+      "growthRate": 48000.0,
+      "category": "accessories"
+    },
+    {
+      "searchTerm": "plaid windbreaker",
+      "growthRate": 47900.0,
+      "category": "misc"
+    },
+    {
+      "searchTerm": "highwaisted trench coat",
+      "growthRate": 46300.0,
+      "category": "fashion"
+    },
+    {
+      "searchTerm": "tall pullover",
+      "growthRate": 43300.0,
+      "category": "misc"
+    }
+  ]
+}

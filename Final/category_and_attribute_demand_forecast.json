@@ -1,0 +1,2568 @@
+{
+  "periodStart": "2025-06-01",
+  "periodEnd": "2025-06-30",
+  "forecast": [
+    {
+      "category": "blouse",
+      "season": "fall",
+      "color": "beige",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "blouse",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 133
+    },
+    {
+      "category": "blouse",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 80
+    },
+    {
+      "category": "blouse",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 145
+    },
+    {
+      "category": "blouse",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "blouse",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 254
+    },
+    {
+      "category": "blouse",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 379
+    },
+    {
+      "category": "blouse",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2133
+    },
+    {
+      "category": "blouse",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 108
+    },
+    {
+      "category": "blouse",
+      "season": "winter",
+      "color": "beige",
+      "forecastedQuantity": 179
+    },
+    {
+      "category": "blouse",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 61
+    },
+    {
+      "category": "blouse",
+      "season": "winter",
+      "color": "white",
+      "forecastedQuantity": 226
+    },
+    {
+      "category": "bomber jacket",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 126
+    },
+    {
+      "category": "bomber jacket",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 54
+    },
+    {
+      "category": "bomber jacket",
+      "season": "summer",
+      "color": "black",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "bomber jacket",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 188
+    },
+    {
+      "category": "bomber jacket",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 10
+    },
+    {
+      "category": "bomber jacket",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 49
+    },
+    {
+      "category": "bomber jacket",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 407
+    },
+    {
+      "category": "bomber jacket",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 199
+    },
+    {
+      "category": "bomber jacket",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2350
+    },
+    {
+      "category": "bomber jacket",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 237
+    },
+    {
+      "category": "bomber jacket",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 11
+    },
+    {
+      "category": "boots",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 9
+    },
+    {
+      "category": "boots",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 63
+    },
+    {
+      "category": "boots",
+      "season": "spring",
+      "color": "navy",
+      "forecastedQuantity": 58
+    },
+    {
+      "category": "boots",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 234
+    },
+    {
+      "category": "boots",
+      "season": "summer",
+      "color": "navy",
+      "forecastedQuantity": 25
+    },
+    {
+      "category": "boots",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 209
+    },
+    {
+      "category": "boots",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 53
+    },
+    {
+      "category": "boots",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 431
+    },
+    {
+      "category": "boots",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "boots",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 233
+    },
+    {
+      "category": "boots",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2355
+    },
+    {
+      "category": "boots",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 347
+    },
+    {
+      "category": "boots",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 155
+    },
+    {
+      "category": "cardigan",
+      "season": "fall",
+      "color": "beige",
+      "forecastedQuantity": 77
+    },
+    {
+      "category": "cardigan",
+      "season": "fall",
+      "color": "black",
+      "forecastedQuantity": 1
+    },
+    {
+      "category": "cardigan",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 147
+    },
+    {
+      "category": "cardigan",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 28
+    },
+    {
+      "category": "cardigan",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 510
+    },
+    {
+      "category": "cardigan",
+      "season": "spring",
+      "color": "navy",
+      "forecastedQuantity": 122
+    },
+    {
+      "category": "cardigan",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 151
+    },
+    {
+      "category": "cardigan",
+      "season": "spring",
+      "color": "white",
+      "forecastedQuantity": 48
+    },
+    {
+      "category": "cardigan",
+      "season": "summer",
+      "color": "navy",
+      "forecastedQuantity": 257
+    },
+    {
+      "category": "cardigan",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 198
+    },
+    {
+      "category": "cardigan",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "cardigan",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 83
+    },
+    {
+      "category": "cardigan",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 241
+    },
+    {
+      "category": "cardigan",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 138
+    },
+    {
+      "category": "cardigan",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2025
+    },
+    {
+      "category": "cardigan",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 439
+    },
+    {
+      "category": "cardigan",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 255
+    },
+    {
+      "category": "cardigan",
+      "season": "winter",
+      "color": "white",
+      "forecastedQuantity": 66
+    },
+    {
+      "category": "coat",
+      "season": "fall",
+      "color": "black",
+      "forecastedQuantity": 125
+    },
+    {
+      "category": "coat",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 28
+    },
+    {
+      "category": "coat",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 54
+    },
+    {
+      "category": "coat",
+      "season": "fall",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "coat",
+      "season": "spring",
+      "color": "black",
+      "forecastedQuantity": 4
+    },
+    {
+      "category": "coat",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 146
+    },
+    {
+      "category": "coat",
+      "season": "summer",
+      "color": "navy",
+      "forecastedQuantity": 484
+    },
+    {
+      "category": "coat",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 354
+    },
+    {
+      "category": "coat",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 17
+    },
+    {
+      "category": "coat",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 22
+    },
+    {
+      "category": "coat",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 295
+    },
+    {
+      "category": "coat",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 1634
+    },
+    {
+      "category": "coat",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 86
+    },
+    {
+      "category": "coat",
+      "season": "winter",
+      "color": "black",
+      "forecastedQuantity": 132
+    },
+    {
+      "category": "coat",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 59
+    },
+    {
+      "category": "crop top",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 36
+    },
+    {
+      "category": "crop top",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 318
+    },
+    {
+      "category": "crop top",
+      "season": "fall",
+      "color": "white",
+      "forecastedQuantity": 93
+    },
+    {
+      "category": "crop top",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 70
+    },
+    {
+      "category": "crop top",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 5
+    },
+    {
+      "category": "crop top",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 12
+    },
+    {
+      "category": "crop top",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 94
+    },
+    {
+      "category": "crop top",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 178
+    },
+    {
+      "category": "crop top",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 103
+    },
+    {
+      "category": "crop top",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 3364
+    },
+    {
+      "category": "crop top",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 349
+    },
+    {
+      "category": "crop top",
+      "season": "winter",
+      "color": "beige",
+      "forecastedQuantity": 240
+    },
+    {
+      "category": "crop top",
+      "season": "winter",
+      "color": "black",
+      "forecastedQuantity": 308
+    },
+    {
+      "category": "crop top",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 134
+    },
+    {
+      "category": "dress",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 10
+    },
+    {
+      "category": "dress",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 9
+    },
+    {
+      "category": "dress",
+      "season": "fall",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "dress",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 14
+    },
+    {
+      "category": "dress",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 83
+    },
+    {
+      "category": "dress",
+      "season": "spring",
+      "color": "white",
+      "forecastedQuantity": 91
+    },
+    {
+      "category": "dress",
+      "season": "summer",
+      "color": "beige",
+      "forecastedQuantity": 495
+    },
+    {
+      "category": "dress",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 148
+    },
+    {
+      "category": "dress",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "dress",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 192
+    },
+    {
+      "category": "dress",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 476
+    },
+    {
+      "category": "dress",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 182
+    },
+    {
+      "category": "dress",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 1530
+    },
+    {
+      "category": "dress",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 43
+    },
+    {
+      "category": "dress",
+      "season": "winter",
+      "color": "black",
+      "forecastedQuantity": 385
+    },
+    {
+      "category": "dress",
+      "season": "winter",
+      "color": "navy",
+      "forecastedQuantity": 2
+    },
+    {
+      "category": "dress",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 345
+    },
+    {
+      "category": "flats",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 326
+    },
+    {
+      "category": "flats",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 127
+    },
+    {
+      "category": "flats",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 198
+    },
+    {
+      "category": "flats",
+      "season": "summer",
+      "color": "beige",
+      "forecastedQuantity": 7
+    },
+    {
+      "category": "flats",
+      "season": "summer",
+      "color": "black",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "flats",
+      "season": "summer",
+      "color": "navy",
+      "forecastedQuantity": 64
+    },
+    {
+      "category": "flats",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 254
+    },
+    {
+      "category": "flats",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 80
+    },
+    {
+      "category": "flats",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 155
+    },
+    {
+      "category": "flats",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 346
+    },
+    {
+      "category": "flats",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 1823
+    },
+    {
+      "category": "flats",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 155
+    },
+    {
+      "category": "flats",
+      "season": "winter",
+      "color": "black",
+      "forecastedQuantity": 141
+    },
+    {
+      "category": "flats",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "heels",
+      "season": "fall",
+      "color": "beige",
+      "forecastedQuantity": 660
+    },
+    {
+      "category": "heels",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "heels",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 599
+    },
+    {
+      "category": "heels",
+      "season": "spring",
+      "color": "black",
+      "forecastedQuantity": 86
+    },
+    {
+      "category": "heels",
+      "season": "spring",
+      "color": "navy",
+      "forecastedQuantity": 18
+    },
+    {
+      "category": "heels",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 21
+    },
+    {
+      "category": "heels",
+      "season": "summer",
+      "color": "navy",
+      "forecastedQuantity": 43
+    },
+    {
+      "category": "heels",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 127
+    },
+    {
+      "category": "heels",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 6
+    },
+    {
+      "category": "heels",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 255
+    },
+    {
+      "category": "heels",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 119
+    },
+    {
+      "category": "heels",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 314
+    },
+    {
+      "category": "heels",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2622
+    },
+    {
+      "category": "heels",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 109
+    },
+    {
+      "category": "heels",
+      "season": "winter",
+      "color": "beige",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "heels",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 189
+    },
+    {
+      "category": "hoodie",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 132
+    },
+    {
+      "category": "hoodie",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 7
+    },
+    {
+      "category": "hoodie",
+      "season": "fall",
+      "color": "white",
+      "forecastedQuantity": 814
+    },
+    {
+      "category": "hoodie",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 28
+    },
+    {
+      "category": "hoodie",
+      "season": "spring",
+      "color": "black",
+      "forecastedQuantity": 30
+    },
+    {
+      "category": "hoodie",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 433
+    },
+    {
+      "category": "hoodie",
+      "season": "spring",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "hoodie",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 67
+    },
+    {
+      "category": "hoodie",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 668
+    },
+    {
+      "category": "hoodie",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "hoodie",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 21
+    },
+    {
+      "category": "hoodie",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 87
+    },
+    {
+      "category": "hoodie",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 1469
+    },
+    {
+      "category": "hoodie",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 467
+    },
+    {
+      "category": "hoodie",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 136
+    },
+    {
+      "category": "jacket",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 103
+    },
+    {
+      "category": "jacket",
+      "season": "fall",
+      "color": "white",
+      "forecastedQuantity": 19
+    },
+    {
+      "category": "jacket",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 15
+    },
+    {
+      "category": "jacket",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 163
+    },
+    {
+      "category": "jacket",
+      "season": "spring",
+      "color": "white",
+      "forecastedQuantity": 364
+    },
+    {
+      "category": "jacket",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 159
+    },
+    {
+      "category": "jacket",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "jacket",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 111
+    },
+    {
+      "category": "jacket",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 38
+    },
+    {
+      "category": "jacket",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 471
+    },
+    {
+      "category": "jacket",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2103
+    },
+    {
+      "category": "jacket",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 280
+    },
+    {
+      "category": "jacket",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 294
+    },
+    {
+      "category": "jeans",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 3
+    },
+    {
+      "category": "jeans",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 338
+    },
+    {
+      "category": "jeans",
+      "season": "spring",
+      "color": "black",
+      "forecastedQuantity": 808
+    },
+    {
+      "category": "jeans",
+      "season": "spring",
+      "color": "navy",
+      "forecastedQuantity": 2
+    },
+    {
+      "category": "jeans",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 87
+    },
+    {
+      "category": "jeans",
+      "season": "summer",
+      "color": "beige",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "jeans",
+      "season": "summer",
+      "color": "black",
+      "forecastedQuantity": 422
+    },
+    {
+      "category": "jeans",
+      "season": "summer",
+      "color": "navy",
+      "forecastedQuantity": 248
+    },
+    {
+      "category": "jeans",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 83
+    },
+    {
+      "category": "jeans",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 122
+    },
+    {
+      "category": "jeans",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 485
+    },
+    {
+      "category": "jeans",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 83
+    },
+    {
+      "category": "jeans",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2558
+    },
+    {
+      "category": "jeans",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 33
+    },
+    {
+      "category": "jeans",
+      "season": "winter",
+      "color": "navy",
+      "forecastedQuantity": 62
+    },
+    {
+      "category": "jeans",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 144
+    },
+    {
+      "category": "jumpsuit",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 42
+    },
+    {
+      "category": "jumpsuit",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 74
+    },
+    {
+      "category": "jumpsuit",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 38
+    },
+    {
+      "category": "jumpsuit",
+      "season": "spring",
+      "color": "white",
+      "forecastedQuantity": 15
+    },
+    {
+      "category": "jumpsuit",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 30
+    },
+    {
+      "category": "jumpsuit",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 51
+    },
+    {
+      "category": "jumpsuit",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 75
+    },
+    {
+      "category": "jumpsuit",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 432
+    },
+    {
+      "category": "jumpsuit",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 3078
+    },
+    {
+      "category": "jumpsuit",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 459
+    },
+    {
+      "category": "jumpsuit",
+      "season": "winter",
+      "color": "navy",
+      "forecastedQuantity": 372
+    },
+    {
+      "category": "jumpsuit",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 125
+    },
+    {
+      "category": "leggings",
+      "season": "fall",
+      "color": "black",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "leggings",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 36
+    },
+    {
+      "category": "leggings",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 13
+    },
+    {
+      "category": "leggings",
+      "season": "spring",
+      "color": "black",
+      "forecastedQuantity": 269
+    },
+    {
+      "category": "leggings",
+      "season": "spring",
+      "color": "navy",
+      "forecastedQuantity": 4
+    },
+    {
+      "category": "leggings",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 37
+    },
+    {
+      "category": "leggings",
+      "season": "summer",
+      "color": "black",
+      "forecastedQuantity": 1
+    },
+    {
+      "category": "leggings",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 342
+    },
+    {
+      "category": "leggings",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "leggings",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 473
+    },
+    {
+      "category": "leggings",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 102
+    },
+    {
+      "category": "leggings",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 365
+    },
+    {
+      "category": "leggings",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2189
+    },
+    {
+      "category": "leggings",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 395
+    },
+    {
+      "category": "leggings",
+      "season": "winter",
+      "color": "navy",
+      "forecastedQuantity": 254
+    },
+    {
+      "category": "leggings",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 250
+    },
+    {
+      "category": "leggings",
+      "season": "winter",
+      "color": "white",
+      "forecastedQuantity": 61
+    },
+    {
+      "category": "loafer",
+      "season": "fall",
+      "color": "beige",
+      "forecastedQuantity": 346
+    },
+    {
+      "category": "loafer",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 326
+    },
+    {
+      "category": "loafer",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 7
+    },
+    {
+      "category": "loafer",
+      "season": "spring",
+      "color": "navy",
+      "forecastedQuantity": 287
+    },
+    {
+      "category": "loafer",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 43
+    },
+    {
+      "category": "loafer",
+      "season": "summer",
+      "color": "black",
+      "forecastedQuantity": 20
+    },
+    {
+      "category": "loafer",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 143
+    },
+    {
+      "category": "loafer",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 112
+    },
+    {
+      "category": "loafer",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 183
+    },
+    {
+      "category": "loafer",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 21
+    },
+    {
+      "category": "loafer",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 606
+    },
+    {
+      "category": "loafer",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 3312
+    },
+    {
+      "category": "loafer",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 82
+    },
+    {
+      "category": "loafer",
+      "season": "winter",
+      "color": "black",
+      "forecastedQuantity": 43
+    },
+    {
+      "category": "loafer",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 255
+    },
+    {
+      "category": "pants",
+      "season": "fall",
+      "color": "black",
+      "forecastedQuantity": 32
+    },
+    {
+      "category": "pants",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 409
+    },
+    {
+      "category": "pants",
+      "season": "spring",
+      "color": "black",
+      "forecastedQuantity": 493
+    },
+    {
+      "category": "pants",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 32
+    },
+    {
+      "category": "pants",
+      "season": "spring",
+      "color": "white",
+      "forecastedQuantity": 8
+    },
+    {
+      "category": "pants",
+      "season": "summer",
+      "color": "beige",
+      "forecastedQuantity": 44
+    },
+    {
+      "category": "pants",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 203
+    },
+    {
+      "category": "pants",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 35
+    },
+    {
+      "category": "pants",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 63
+    },
+    {
+      "category": "pants",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 382
+    },
+    {
+      "category": "pants",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2054
+    },
+    {
+      "category": "pants",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 365
+    },
+    {
+      "category": "pants",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 453
+    },
+    {
+      "category": "parka",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "parka",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 53
+    },
+    {
+      "category": "parka",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "parka",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 31
+    },
+    {
+      "category": "parka",
+      "season": "summer",
+      "color": "black",
+      "forecastedQuantity": 309
+    },
+    {
+      "category": "parka",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 400
+    },
+    {
+      "category": "parka",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 15
+    },
+    {
+      "category": "parka",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 14
+    },
+    {
+      "category": "parka",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 294
+    },
+    {
+      "category": "parka",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 1937
+    },
+    {
+      "category": "parka",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 122
+    },
+    {
+      "category": "parka",
+      "season": "winter",
+      "color": "beige",
+      "forecastedQuantity": 35
+    },
+    {
+      "category": "parka",
+      "season": "winter",
+      "color": "black",
+      "forecastedQuantity": 15
+    },
+    {
+      "category": "parka",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 331
+    },
+    {
+      "category": "pullover",
+      "season": "fall",
+      "color": "black",
+      "forecastedQuantity": 16
+    },
+    {
+      "category": "pullover",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 6
+    },
+    {
+      "category": "pullover",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 114
+    },
+    {
+      "category": "pullover",
+      "season": "summer",
+      "color": "beige",
+      "forecastedQuantity": 11
+    },
+    {
+      "category": "pullover",
+      "season": "summer",
+      "color": "navy",
+      "forecastedQuantity": 248
+    },
+    {
+      "category": "pullover",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 77
+    },
+    {
+      "category": "pullover",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 34
+    },
+    {
+      "category": "pullover",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 148
+    },
+    {
+      "category": "pullover",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 69
+    },
+    {
+      "category": "pullover",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 148
+    },
+    {
+      "category": "pullover",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2850
+    },
+    {
+      "category": "pullover",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 10
+    },
+    {
+      "category": "pullover",
+      "season": "winter",
+      "color": "navy",
+      "forecastedQuantity": 2
+    },
+    {
+      "category": "pullover",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 362
+    },
+    {
+      "category": "pullover",
+      "season": "winter",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "romper",
+      "season": "fall",
+      "color": "beige",
+      "forecastedQuantity": 105
+    },
+    {
+      "category": "romper",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 45
+    },
+    {
+      "category": "romper",
+      "season": "fall",
+      "color": "white",
+      "forecastedQuantity": 5
+    },
+    {
+      "category": "romper",
+      "season": "spring",
+      "color": "navy",
+      "forecastedQuantity": 164
+    },
+    {
+      "category": "romper",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 353
+    },
+    {
+      "category": "romper",
+      "season": "summer",
+      "color": "black",
+      "forecastedQuantity": 810
+    },
+    {
+      "category": "romper",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 14
+    },
+    {
+      "category": "romper",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 273
+    },
+    {
+      "category": "romper",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 181
+    },
+    {
+      "category": "romper",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 137
+    },
+    {
+      "category": "romper",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 291
+    },
+    {
+      "category": "romper",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2468
+    },
+    {
+      "category": "romper",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 386
+    },
+    {
+      "category": "romper",
+      "season": "winter",
+      "color": "black",
+      "forecastedQuantity": 143
+    },
+    {
+      "category": "romper",
+      "season": "winter",
+      "color": "navy",
+      "forecastedQuantity": 449
+    },
+    {
+      "category": "romper",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 182
+    },
+    {
+      "category": "sandals",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 15
+    },
+    {
+      "category": "sandals",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 11
+    },
+    {
+      "category": "sandals",
+      "season": "fall",
+      "color": "white",
+      "forecastedQuantity": 1
+    },
+    {
+      "category": "sandals",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 18
+    },
+    {
+      "category": "sandals",
+      "season": "spring",
+      "color": "black",
+      "forecastedQuantity": 111
+    },
+    {
+      "category": "sandals",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "sandals",
+      "season": "summer",
+      "color": "beige",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "sandals",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 30
+    },
+    {
+      "category": "sandals",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 202
+    },
+    {
+      "category": "sandals",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 28
+    },
+    {
+      "category": "sandals",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 214
+    },
+    {
+      "category": "sandals",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2993
+    },
+    {
+      "category": "sandals",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 20
+    },
+    {
+      "category": "sandals",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 171
+    },
+    {
+      "category": "shirt",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 392
+    },
+    {
+      "category": "shirt",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 311
+    },
+    {
+      "category": "shirt",
+      "season": "fall",
+      "color": "white",
+      "forecastedQuantity": 143
+    },
+    {
+      "category": "shirt",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 228
+    },
+    {
+      "category": "shirt",
+      "season": "spring",
+      "color": "black",
+      "forecastedQuantity": 26
+    },
+    {
+      "category": "shirt",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 173
+    },
+    {
+      "category": "shirt",
+      "season": "spring",
+      "color": "white",
+      "forecastedQuantity": 24
+    },
+    {
+      "category": "shirt",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 120
+    },
+    {
+      "category": "shirt",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 51
+    },
+    {
+      "category": "shirt",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 391
+    },
+    {
+      "category": "shirt",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 176
+    },
+    {
+      "category": "shirt",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2583
+    },
+    {
+      "category": "shirt",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 122
+    },
+    {
+      "category": "shirt",
+      "season": "winter",
+      "color": "black",
+      "forecastedQuantity": 47
+    },
+    {
+      "category": "shirt",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 125
+    },
+    {
+      "category": "shirt",
+      "season": "winter",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "shorts",
+      "season": "fall",
+      "color": "navy",
+      "forecastedQuantity": 11
+    },
+    {
+      "category": "shorts",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 275
+    },
+    {
+      "category": "shorts",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 132
+    },
+    {
+      "category": "shorts",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 165
+    },
+    {
+      "category": "shorts",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 40
+    },
+    {
+      "category": "shorts",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 272
+    },
+    {
+      "category": "shorts",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 93
+    },
+    {
+      "category": "shorts",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 153
+    },
+    {
+      "category": "shorts",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 3076
+    },
+    {
+      "category": "shorts",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 34
+    },
+    {
+      "category": "shorts",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 355
+    },
+    {
+      "category": "skirt",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 154
+    },
+    {
+      "category": "skirt",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "skirt",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 420
+    },
+    {
+      "category": "skirt",
+      "season": "spring",
+      "color": "white",
+      "forecastedQuantity": 86
+    },
+    {
+      "category": "skirt",
+      "season": "summer",
+      "color": "black",
+      "forecastedQuantity": 18
+    },
+    {
+      "category": "skirt",
+      "season": "summer",
+      "color": "navy",
+      "forecastedQuantity": 450
+    },
+    {
+      "category": "skirt",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 207
+    },
+    {
+      "category": "skirt",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 566
+    },
+    {
+      "category": "skirt",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 389
+    },
+    {
+      "category": "skirt",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 242
+    },
+    {
+      "category": "skirt",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 1943
+    },
+    {
+      "category": "skirt",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 447
+    },
+    {
+      "category": "skirt",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 362
+    },
+    {
+      "category": "slides",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 62
+    },
+    {
+      "category": "slides",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "slides",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 392
+    },
+    {
+      "category": "slides",
+      "season": "spring",
+      "color": "white",
+      "forecastedQuantity": 19
+    },
+    {
+      "category": "slides",
+      "season": "summer",
+      "color": "black",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "slides",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 171
+    },
+    {
+      "category": "slides",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 15
+    },
+    {
+      "category": "slides",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 236
+    },
+    {
+      "category": "slides",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 327
+    },
+    {
+      "category": "slides",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 139
+    },
+    {
+      "category": "slides",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2297
+    },
+    {
+      "category": "slides",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 37
+    },
+    {
+      "category": "slides",
+      "season": "winter",
+      "color": "black",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "slides",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 57
+    },
+    {
+      "category": "sneakers",
+      "season": "fall",
+      "color": "beige",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "sneakers",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 209
+    },
+    {
+      "category": "sneakers",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 100
+    },
+    {
+      "category": "sneakers",
+      "season": "spring",
+      "color": "black",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "sneakers",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 191
+    },
+    {
+      "category": "sneakers",
+      "season": "spring",
+      "color": "white",
+      "forecastedQuantity": 354
+    },
+    {
+      "category": "sneakers",
+      "season": "summer",
+      "color": "beige",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "sneakers",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 141
+    },
+    {
+      "category": "sneakers",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "sneakers",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 219
+    },
+    {
+      "category": "sneakers",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 288
+    },
+    {
+      "category": "sneakers",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 29
+    },
+    {
+      "category": "sneakers",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2800
+    },
+    {
+      "category": "sneakers",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 69
+    },
+    {
+      "category": "sneakers",
+      "season": "winter",
+      "color": "beige",
+      "forecastedQuantity": 22
+    },
+    {
+      "category": "sneakers",
+      "season": "winter",
+      "color": "navy",
+      "forecastedQuantity": 78
+    },
+    {
+      "category": "sneakers",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 124
+    },
+    {
+      "category": "sneakers",
+      "season": "winter",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "sweater",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 109
+    },
+    {
+      "category": "sweater",
+      "season": "spring",
+      "color": "navy",
+      "forecastedQuantity": 242
+    },
+    {
+      "category": "sweater",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 358
+    },
+    {
+      "category": "sweater",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 311
+    },
+    {
+      "category": "sweater",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 388
+    },
+    {
+      "category": "sweater",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 251
+    },
+    {
+      "category": "sweater",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 101
+    },
+    {
+      "category": "sweater",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 2240
+    },
+    {
+      "category": "sweater",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 159
+    },
+    {
+      "category": "sweater",
+      "season": "winter",
+      "color": "black",
+      "forecastedQuantity": 333
+    },
+    {
+      "category": "sweater",
+      "season": "winter",
+      "color": "navy",
+      "forecastedQuantity": 251
+    },
+    {
+      "category": "sweater",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 321
+    },
+    {
+      "category": "sweater",
+      "season": "winter",
+      "color": "white",
+      "forecastedQuantity": 3
+    },
+    {
+      "category": "t-shirt",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 364
+    },
+    {
+      "category": "t-shirt",
+      "season": "spring",
+      "color": "black",
+      "forecastedQuantity": 31
+    },
+    {
+      "category": "t-shirt",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 505
+    },
+    {
+      "category": "t-shirt",
+      "season": "summer",
+      "color": "black",
+      "forecastedQuantity": 73
+    },
+    {
+      "category": "t-shirt",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "t-shirt",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 374
+    },
+    {
+      "category": "t-shirt",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 101
+    },
+    {
+      "category": "t-shirt",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 293
+    },
+    {
+      "category": "t-shirt",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 1172
+    },
+    {
+      "category": "t-shirt",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 445
+    },
+    {
+      "category": "t-shirt",
+      "season": "winter",
+      "color": "beige",
+      "forecastedQuantity": 12
+    },
+    {
+      "category": "t-shirt",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 170
+    },
+    {
+      "category": "tank top",
+      "season": "fall",
+      "color": "beige",
+      "forecastedQuantity": 424
+    },
+    {
+      "category": "tank top",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 609
+    },
+    {
+      "category": "tank top",
+      "season": "fall",
+      "color": "white",
+      "forecastedQuantity": 364
+    },
+    {
+      "category": "tank top",
+      "season": "spring",
+      "color": "beige",
+      "forecastedQuantity": 13
+    },
+    {
+      "category": "tank top",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 55
+    },
+    {
+      "category": "tank top",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 22
+    },
+    {
+      "category": "tank top",
+      "season": "summer",
+      "color": "white",
+      "forecastedQuantity": 42
+    },
+    {
+      "category": "tank top",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 81
+    },
+    {
+      "category": "tank top",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 172
+    },
+    {
+      "category": "tank top",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 240
+    },
+    {
+      "category": "tank top",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 3624
+    },
+    {
+      "category": "tank top",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "tank top",
+      "season": "winter",
+      "color": "beige",
+      "forecastedQuantity": 107
+    },
+    {
+      "category": "tank top",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 356
+    },
+    {
+      "category": "trench coat",
+      "season": "fall",
+      "color": "black",
+      "forecastedQuantity": 351
+    },
+    {
+      "category": "trench coat",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 38
+    },
+    {
+      "category": "trench coat",
+      "season": "fall",
+      "color": "white",
+      "forecastedQuantity": 3
+    },
+    {
+      "category": "trench coat",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 12
+    },
+    {
+      "category": "trench coat",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 101
+    },
+    {
+      "category": "trench coat",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 45
+    },
+    {
+      "category": "trench coat",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 82
+    },
+    {
+      "category": "trench coat",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 969
+    },
+    {
+      "category": "trench coat",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 3105
+    },
+    {
+      "category": "trench coat",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 220
+    },
+    {
+      "category": "trench coat",
+      "season": "winter",
+      "color": "navy",
+      "forecastedQuantity": 5
+    },
+    {
+      "category": "trench coat",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 60
+    },
+    {
+      "category": "trench coat",
+      "season": "winter",
+      "color": "white",
+      "forecastedQuantity": 22
+    },
+    {
+      "category": "windbreaker",
+      "season": "fall",
+      "color": "unknown",
+      "forecastedQuantity": 430
+    },
+    {
+      "category": "windbreaker",
+      "season": "spring",
+      "color": "black",
+      "forecastedQuantity": 160
+    },
+    {
+      "category": "windbreaker",
+      "season": "spring",
+      "color": "navy",
+      "forecastedQuantity": 12
+    },
+    {
+      "category": "windbreaker",
+      "season": "spring",
+      "color": "unknown",
+      "forecastedQuantity": 256
+    },
+    {
+      "category": "windbreaker",
+      "season": "spring",
+      "color": "white",
+      "forecastedQuantity": 0
+    },
+    {
+      "category": "windbreaker",
+      "season": "summer",
+      "color": "black",
+      "forecastedQuantity": 34
+    },
+    {
+      "category": "windbreaker",
+      "season": "summer",
+      "color": "unknown",
+      "forecastedQuantity": 342
+    },
+    {
+      "category": "windbreaker",
+      "season": "unknown",
+      "color": "beige",
+      "forecastedQuantity": 14
+    },
+    {
+      "category": "windbreaker",
+      "season": "unknown",
+      "color": "black",
+      "forecastedQuantity": 16
+    },
+    {
+      "category": "windbreaker",
+      "season": "unknown",
+      "color": "navy",
+      "forecastedQuantity": 83
+    },
+    {
+      "category": "windbreaker",
+      "season": "unknown",
+      "color": "unknown",
+      "forecastedQuantity": 3018
+    },
+    {
+      "category": "windbreaker",
+      "season": "unknown",
+      "color": "white",
+      "forecastedQuantity": 364
+    },
+    {
+      "category": "windbreaker",
+      "season": "winter",
+      "color": "unknown",
+      "forecastedQuantity": 46
+    }
+  ]
+}
